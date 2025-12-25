@@ -1,0 +1,4 @@
+LangGraph is a framework for building stateful multi-agent workflows.
+It enables conditional routing, memory, and human-in-the-loop.
+LangChain provides abstractions for LLMs, tools, and retrievers.
+FAISS is a vector database for efficient similarity search.
