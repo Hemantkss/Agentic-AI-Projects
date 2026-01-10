@@ -1,0 +1,10 @@
+    
+# ===============================
+# 🔐 Environment Variables
+# ===============================
+.env
+.myenv
+__pycache__/
+.ipynb_checkpoints/
+*.db
+
